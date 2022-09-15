@@ -13,8 +13,8 @@ async function walletConnectFcn() {
 	};
 	let appMetadata = {
 		name: "Hedera dApp Days",
-		description: "Let's buidl a dapp on Hedera",
-		icon: "https://raw.githubusercontent.com/ed-marquez/hedera-dapp-days/testing/src/assets/hederaLogo.png",
+		description: "Let's build a dapp on Hedera",
+		icon: "https://raw.githubusercontent.com/swirlds-matt/hedera-dapp-days/token2049-solution/src/assets/hederaLogo.png",
 	};
 	let hashconnect = new HashConnect();
 
