@@ -9,7 +9,7 @@
 
 # Slides:
 
-- [Hedera Rocks - dApp Day Slides.pdf](https://github.com/swirlds-matt/hedera-dapp-days/tree/token2049-start/slides/slides.pdf)
+- [dApp Day Slides.pdf](https://github.com/swirlds-matt/hedera-dapp-days/tree/token2049-start/slides/slides.pdf)
 
 # What's next after this dApp day?
 
